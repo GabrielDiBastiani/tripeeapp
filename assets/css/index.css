@@ -470,9 +470,7 @@ section#contactUs :-ms-input-placeholder {
     padding-top: 0;
     padding-bottom: 10px;
 }
-.mb-auto, .my-auto {
-    margin-bottom: -30px!important;
-}
+
 @media (min-width: 768px) {
     .about-context {
         padding-top: 0;
